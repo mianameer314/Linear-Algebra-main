@@ -1,8 +1,5 @@
 # **Linear Algebra**
 
-**Comprehensive Guide to Linear Algebra: From Pre-Algebra to Advanced Topics**
-
-This repository serves as a complete learning resource for mastering Linear Algebra, covering essential concepts from pre-algebra, elementary algebra, and progressing to advanced linear algebra. Whether you're a student, data scientist, or engineer, this guide provides in-depth lectures, examples, and exercises to help you build a strong foundation and excel in algebraic methods critical for data science, machine learning, and beyond.
 
 ### What You'll Learn
 
